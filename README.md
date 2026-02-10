@@ -1,12 +1,12 @@
-## 🕷 Speda SP-100: AI KPI Assistant
+## 🕷 Speda Mark 1: AI KPI Assistant
 
-**Speda SP-100** is an AI-powered KPI assistant developed as the **graduation project** by six interns from **Boğaziçi University**, in collaboration with **AVD Consultancy**. The application helps organizations generate, structure, and visualize Key Performance Indicators (KPIs) using AI and Gantt charts.
+**Speda Mark 1** is an AI-powered KPI assistant developed as the **graduation project** by six interns from **Boğaziçi University**, in collaboration with **AVD Consultancy**. The application helps organizations generate, structure, and visualize Key Performance Indicators (KPIs) using AI and Gantt charts.
 
 ---
 
 ## 💼 Overview
 
-Speda SP-100 acts as a smart assistant that:
+Speda Mark 1 acts as a smart assistant that:
 - Suggests business KPIs automatically based on user input
 - Generates time-bound project plans in JSON format
 - Renders interactive Gantt charts using Altair
@@ -47,7 +47,7 @@ Built with **Streamlit**, **Altair**, and **Google Gemini (1.5 Flash)** for seam
 
 ## 🚀 Getting Started
 
-- **Project Name:** Speda SP-100
+- **Project Name:** Speda Mark 1
 - **Type:** Graduation Project
 - **Institution:** Boğaziçi University (Internship) & AVD Consultancy
 - **Developped By:** Muhammed Emin Yavuz, Ahmet Erol Bayrak, Muhammed Gazi Güzel, Muhammed Esat Demir , Ramiz Can Akbıyık, Gökay Sardoğan
